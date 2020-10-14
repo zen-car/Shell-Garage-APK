@@ -1,1 +1,11 @@
-{ "commited":"961f3106cf1a1bb2f6e42201485c327fe1d7290d", "apkUrl":"https://github.com/zen-car/Shell-Garage-APK/raw/master/app-release.apk", "apkVersionUrl":"https://raw.githubusercontent.com/zen-car/Shell-Garage-APK/master/version.json", "versionName":"998.0", "versionCode":"998", "DescriptionRnUpdate":"https://raw.githubusercontent.com/zen-car/Shell-Garage-APK/master/version.json", "forceUpdate":false, "fileProviderAuthority":"com.shell.garage.provider", "TitleRnUpdate":"Update Available" }
+{
+  "commited": "961f3106cf1a1bb2f6e42201485c327fe1d7290d",
+  "apkUrl": "https://github.com/zen-car/Shell-Garage-APK/raw/master/app-release.apk",
+  "apkVersionUrl": "https://raw.githubusercontent.com/zen-car/Shell-Garage-APK/master/version.json",
+  "versionName": "998.0",
+  "versionCode": "998",
+  "DescriptionRnUpdate": "https://raw.githubusercontent.com/zen-car/Shell-Garage-APK/master/version.json",
+  "forceUpdate": false,
+  "fileProviderAuthority": "com.shell.garage.provider",
+  "TitleRnUpdate": "Update Available"
+}
